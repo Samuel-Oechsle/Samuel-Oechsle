@@ -1,26 +1,22 @@
 <h2 align="center">Hi 👋! My name is Samuel and I'm a Software developer Trainees, from Germany</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Samuel-Oechsle/count.svg?"  />
-</div>
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Oechsle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Samuel-Oechsle&theme=dracula&no-bg=true" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Oechsle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="180" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Oechsle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Oechsle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Samuel-Oechsle&theme=dracula&no-bg=true&margin-w=20&margin-h=0" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="175" src="OechsleSamuel_248_web.jpg"  />
-</div>
+<img align="left" height="200" src="OechsleSamuel_248_web.jpg"  />
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/Samuel-Oechsle/count.svg?"  />
 
 ###
 
@@ -58,3 +54,4 @@
 
 <img src="https://raw.githubusercontent.com/Samuel-Oechsle/Samuel-Oechsle/output/snake.svg" alt="Snake animation" />
 
+###
