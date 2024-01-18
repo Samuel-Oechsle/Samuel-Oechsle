@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Oechsle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Oechsle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Samuel-Oechsle&theme=dracula&no-bg=true&margin-w=20&margin-h=0" height="150" alt="trophy graph"  />
