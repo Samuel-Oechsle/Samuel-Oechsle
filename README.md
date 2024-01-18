@@ -1,5 +1,9 @@
 <h2 align="center">Hi 👋! My name is Samuel and I'm a Software developer Trainees, from Germany</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Samuel-Oechsle/count.svg?"  />
+</div>
+
 ###
 
 <div align="center">
@@ -9,10 +13,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Samuel-Oechsle/count.svg?"  />
-</div>
 
 ###
 
